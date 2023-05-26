@@ -4,3 +4,6 @@ Online Shopping Website -> API
 • Developed a RESTful API with authentication/authorization
 • Designed the database entities and schemas free of redundancy and other database errors
 • Utilized: JavaScript, ExpressJS, MongoDB, JWT.
+
+September 2020 ‑ January 2021 
+
